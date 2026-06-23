@@ -15,4 +15,3 @@ A React-based meme generator that fetches trending templates from the Imgflip AP
 
 ## 🚀 Setup Instructions
 1. **Clone or Extract** the project directory.
-2. **Install Dependencies:**
